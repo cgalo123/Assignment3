@@ -12,22 +12,17 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/products/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/sample-product-page/
+            http://localhost:8000/products/high-performance-bicycle/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products/high-performance-bicycle/
+            http://localhost:8000/products/off-road-bike/
         </loc>
     </url>
     <url>
