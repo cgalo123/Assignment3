@@ -27,6 +27,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/mountain-bike/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/electric-bike/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/pheonix/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
